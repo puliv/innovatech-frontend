@@ -4,4 +4,4 @@ dist
 .gitignore
 *.md
 .env*
-.DS_Store
+.DS_Store# update
